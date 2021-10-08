@@ -35,8 +35,10 @@ $ flutter pub get
 $ flutter run
 ```
 
-![Splash Screen](screenshots/splash_screen.png)
-![Login](screenshots/login.png)
-![Boletos](screenshots/boletos.png)
-![Extratos](screenshots/extratos.png)
-![Cadastrar Boleto](screenshots/cadastrar_boleto.png)
+<p flwx-direction="row">
+  <img src="screenshots/splash_screen.png" width="100" />
+  <img src="screenshots/login.png" width="100" /> 
+  <img src="screenshots/boletos.png" width="100" />
+  <img src="screenshots/extratos.png" width="100" />
+  <img src="screenshots/cadastrar_boleto.png" width="100" />
+</p>

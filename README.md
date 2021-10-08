@@ -23,7 +23,7 @@ As seguintes tecnologias e pacotes foram usadas na construção do projeto:
 
 ```
 - Clone esse repositório:
-$ git clone https://github.com/lucas-salles/payflow
+$ git clone https://github.com/lucas-salles/payflow.git
 
 - Entre no diretório:
 $ cd payflow

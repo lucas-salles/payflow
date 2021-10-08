@@ -36,9 +36,9 @@ $ flutter run
 ```
 
 <p flwx-direction="row">
-  <img src="screenshots/splash_screen.png" width="100" />
-  <img src="screenshots/login.png" width="100" /> 
-  <img src="screenshots/boletos.png" width="100" />
-  <img src="screenshots/extratos.png" width="100" />
-  <img src="screenshots/cadastrar_boleto.png" width="100" />
+  <img src="screenshots/splash_screen.png" width="150" />
+  <img src="screenshots/login.png" width="150" /> 
+  <img src="screenshots/boletos.png" width="150" />
+  <img src="screenshots/extratos.png" width="150" />
+  <img src="screenshots/cadastrar_boleto.png" width="150" />
 </p>

@@ -35,7 +35,7 @@ $ flutter pub get
 $ flutter run
 ```
 
-<div flwx-direction="row">
+<div>
   <img src="screenshots/splash_screen.png" width="150" />
   <img src="screenshots/login.png" width="150" /> 
   <img src="screenshots/boletos.png" width="150" />

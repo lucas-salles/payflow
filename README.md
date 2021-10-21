@@ -19,6 +19,22 @@ As seguintes tecnologias e pacotes foram usadas na construção do projeto:
 - [flutter_masked_text2](https://pub.dev/packages/flutter_masked_text2)
 - [animated_card](https://pub.dev/packages/animated_card)
 
+## Como Usar
+
+```
+ - Clone esse repositório:
+ $ git clone https://github.com/lucas-salles/payflow.git
+
+ - Entre no diretório:
+ $ cd payflow
+
+ - Instale as dependências:
+ $ flutter pub get
+
+ - Inicie o app: 
+ $ flutter run
+ ```
+
 <div>
   <img src="screenshots/splash_screen.png" width="150" />
   <img src="screenshots/login.png" width="150" /> 
